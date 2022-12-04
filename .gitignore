@@ -1,5 +1,5 @@
 ignore
-
+winget-skip-upgrades.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
